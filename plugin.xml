@@ -7,7 +7,7 @@
   <repo>https://github.com/prsuhas/cordova-plugin-file-encryption</repo>
   <issue>https://github.com/prsuhas/cordova-plugin-file-encryption/issues</issue>
   <engines>
-    <engine name="cordova-android" version=">=6.3.0" />
+    <engine name="cordova-android" version=">=5.0.0" />
   </engines>
   <js-module src="www/FileEncryption.js" name="FileEncryption" >
     <merges target="FileEncryption"/>
